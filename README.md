@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65703c575145316d25c4b789?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/65703c575145316d25c4b789?variant=dark)](https://roadmap.sh)
 
 <!--
 **AasifSweGit2017/AasifSweGit2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
